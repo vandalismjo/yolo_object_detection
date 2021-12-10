@@ -1,0 +1,7 @@
+.venv/Lib/*
+.venv/Scripts/*
+.venv/Include/*
+.venv/share/*
+.venv/*
+.vscode/*
+annotations/*
